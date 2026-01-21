@@ -7,7 +7,7 @@ Script Python simple pour obtenir des numéros de téléphone temporaires via l'
 
 1. **Clonez le repository**
 ```bash
-git clone https://github.com/votre-username/grizzly-sms-script.git
+git clone https://github.com/tEOmthd/grizzly-sms-script
 cd grizzly-sms-script
 ```
 
