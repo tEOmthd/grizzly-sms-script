@@ -1,0 +1,52 @@
+
+# 🐻 Grizzly SMS - Script Python
+
+Script Python simple pour obtenir des numéros de téléphone temporaires via l'API Grizzly SMS.
+
+## 🚀 Installation rapide
+
+1. **Clonez le repository**
+```bash
+git clone https://github.com/votre-username/grizzly-sms-script.git
+cd grizzly-sms-script
+```
+
+2. **Installez les dépendances**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Configurez votre clé API**
+   - Créez un compte sur [GrizzlySMS.com](https://grizzlysms.com)
+   - Récupérez votre clé API dans les paramètres
+   - Ouvrez `config.py` et remplacez `"votre_clé_api_ici"` par votre clé
+
+## ▶️ Utilisation
+
+**Mode simple (recommandé) :**
+```bash
+python grizzly_sms.py
+```
+
+
+Le script affiche votre solde, obtient un numéro temporaire, et peut attendre le SMS automatiquement.
+
+## ⚠️ Important
+
+- Les numéros expirent après **15-20 minutes**
+- Usage **personnel et légitime** uniquement
+
+## 📋 Fichiers
+
+- `grizzly_sms.py` - Script principal
+- `config.py` - **Mettez votre clé API ici**
+- `sms_history.json` - Historique (créé automatiquement)
+
+## 💰 Coûts
+
+~0.10-0.60€ par numéro selon le pays. 5€ = environ 10-50 numéros.
+
+## 📧 Support
+
+Questions ? Ouvrez une issue ou consultez [grizzlysms.com/support](https://grizzlysms.com/support)
+
