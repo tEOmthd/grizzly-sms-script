@@ -1,5 +1,4 @@
 # API Keys & Config
-config.py
 *.key
 
 # History & Logs
